@@ -1,6 +1,6 @@
-##  Salom, mening ismim Dilshodbek Bahodirov !<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWUwa3locHo0OWdxbnc4ZWhieDUxZXRoYW9tNWo0emRtMTZ4aDRmMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Q7DQSc23rpWA2Uvgyo/giphy.gif" width="95px">
+##  Salom, mening ismim Dilshodbek Bahodirov !<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmdqc3U2M2x0cGE0ZnBucXdjaHAzc2Y3Yno5dnA3OXhmcTU0ZWljMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/m0dmKBkncVETJv2h0S/giphy.gif" width="95px">
 ### 🚀 Dasturlash bo‘yicha qiziqishlarim:
-- 🔭 Hozirda "Unicon Soft" da faoliyat ko'rsatyapman.
-- 🌱 Yangi o‘rganayotgan texnologiyalarim: React
+- 🔭 Hozirda "Unicon Soft" va Al-Xorazmiy Vorislari loyihasida faoliyat ko'rsatyapman.
+- 🌱 Yangi o‘rganayotgan texnologiyalarim: Reactjs
 - 📫 Menga bog‘lanish: 
 
