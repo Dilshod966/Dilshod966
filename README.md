@@ -2,6 +2,7 @@
 ### 🚀 Dasturlash bo‘yicha qiziqishlarim:
 - 🔭 Hozirda "Unicon Soft" va Al-Xorazmiy Vorislari loyihasida faoliyat ko'rsatyapman.
 - 🌱 Yangi o‘rganayotgan texnologiyalarim: Reactjs
-- 📫 Menga bog‘lanish: <a href="https://t.me/Dilshod_2636
-"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3c1OXF3czgzdGJ6Y2cweWw1cm14cXo2OG5taHM5cXlyaTV6b3ZkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DUXzmdy2naQa0UTtNn/giphy.gif" width="25px"></a>
+- 📫 Menga bog‘lanish:   <a href="https://t.me/Dilshod_2636
+"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3c1OXF3czgzdGJ6Y2cweWw1cm14cXo2OG5taHM5cXlyaTV6b3ZkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DUXzmdy2naQa0UTtNn/giphy.gif" width="25px"></a>   
+<a href="https://www.instagram.com/bohodirov.dilshod"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW02MDc3ZmY0NHZsbjJrcW4xaG1sdDVvZDY4aTh5Ym1vNjBweG1kbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vG8BovYvJEVVrWfLPb/giphy.gif" width="25px"></a>
 
